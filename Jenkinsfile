@@ -3,7 +3,7 @@ pipeline {
     environment {
         PATH = "/usr/bin:$PATH"
         tag = "1.0"
-        dockerHubUser = "nithin3119"
+        dockerHubUser = "swpatil09"
         containerName = "insure-me"
         httpPort = "8081"
     }
